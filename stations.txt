@@ -1,0 +1,60 @@
+    {
+      "station": "Abbey Road",
+      "direction": inbound,
+      "updated_on": "2024-09-12T00:00:00Z"
+    },
+    {
+      "station": "Acton Central",
+      "direction": inbound,
+      "updated_on": "2024-09-12T00:00:00Z"
+    },
+    {
+      "station": "Acton Town",
+      "direction": inbound,
+      "updated_on": "2024-09-12T00:00:00Z"
+    },
+    {
+      "station": "Aldgate",
+      "direction": inbound,
+      "updated_on": "2024-09-12T00:00:00Z"
+    },
+    {
+      "station": "Aldgate East",
+      "direction": inbound,
+      "updated_on": "2024-09-12T00:00:00Z"
+    },
+    {
+      "station": "All Saints",
+      "direction": inbound,
+      "updated_on": "2024-09-12T00:00:00Z"
+    },
+    {
+      "station": "Alperton",
+      "direction": inbound,
+      "updated_on": "2024-09-12T00:00:00Z"
+    },
+    {
+      "station": "Amersham",
+      "direction": inbound,
+      "updated_on": "2024-09-12T00:00:00Z"
+    },
+    {
+      "station": "Angel",
+      "direction": inbound,
+      "updated_on": "2024-09-12T00:00:00Z"
+    },
+    {
+      "station": "Archway",
+      "direction": inbound,
+      "updated_on": "2024-09-12T00:00:00Z"
+    },
+    {
+      "station": "Arnos Grove",
+      "direction": inbound,
+      "updated_on": "2024-09-12T00:00:00Z"
+    },
+    {
+      "station": "Arsenal",
+      "direction": inbound,
+      "updated_on": "2024-09-12T00:00:00Z"
+    }
