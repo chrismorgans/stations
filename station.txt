@@ -1,9 +1,5 @@
-{
-  "station": [
     {
       "station": "Angel",
       "direction": "inbound",
-      "updated_on": "2024-09-12T00:00:00Z"
+      "updated_on": "2024-09-12T00:00:00"
     }
-  ]
-}
