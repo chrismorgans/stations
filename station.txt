@@ -1,7 +1,7 @@
-    {
+     {
       "station": "Walthamstow Central",
       "direction": "inbound",
-      "updated_on": "2024-10-04T00:00:00Z"
+      "updated_on": "2024-10-04T00:00"
     },
     {
       "station": "Wanstead",
